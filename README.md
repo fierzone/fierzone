@@ -59,7 +59,7 @@
 
 ---
 
-## 🐍 Contributions Animation
+## 🐍 Contributions
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </p>
