@@ -73,9 +73,4 @@
 ---
 
 <h2 align="center">☕ Support Me</h2>
-<p align="center">
-  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
-    <img height="50" src="" alt="Buy Me a Coffee" />
-  </a>
-</p>
 
