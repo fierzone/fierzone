@@ -66,11 +66,25 @@
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
 
 ---
 
-<h2 align="center">☕ Support Me</h2>
+## ☕ Support
+
+This extension is **100% free**. If you find it useful and want to support the project:
+
+- ⭐ Star the repository
+- 💬 Leave a feedback
+- [☕ Buy me a coffee](https://buymeacoffee.com/fierzone)
+
+> Every kind gesture, whether a coffee or a kind comment, keeps this project alive and evolving. Thank you!
+
+## 🐞 Report an Issue
+
+If you encounter a bug, have a suggestion, or want to request a new feature, please open an issue on GitHub or DM [me](https://www.facebook.com/huy.letrannhat.355/)
+
+---
